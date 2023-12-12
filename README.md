@@ -1,2 +1,12 @@
 # PSDS-Kelas-Mahir-6.0
-The PSDS Advanced Data Science class at Ahmad Dahlan University emphasizes Python for robust data management. Covering TensorFlow and Keras, it merges theory with hands-on experience, preparing students for real-world data challenges.
+In the Advanced Data Science class at the Data Science Study Center (PSDS), participants undergo a comprehensive exploration of data management using the Python programming language. This specialized course, nestled within the activities of the study club at Ahmad Dahlan University, focuses on advanced aspects of data science with a particular emphasis on practical applications facilitated through tools such as TensorFlow and Keras.
+
+The core objective of the class is to equip students with the proficiency to adeptly manage and manipulate data using Python. This extends to advanced topics, including data analysis and modeling, providing a holistic understanding of how Python can be harnessed for effective data science. The curriculum is meticulously designed to ensure a balance between theoretical knowledge and practical application.
+
+Throughout the course, students engage in hands-on experiences that enable them to apply their learning in real-world scenarios. They delve into popular libraries and frameworks, with a specific focus on TensorFlow and Keras, gaining practical insights into their utilization for tackling complex data challenges. The emphasis on practical skills aims to empower participants to seamlessly navigate the dynamic landscape of data science upon completion of the course.
+
+The course structure incorporates a series of modules that progressively build upon foundational concepts. Beginning with fundamental data manipulation techniques in Python, participants gradually advance to more intricate topics such as machine learning. TensorFlow and Keras play a pivotal role in this progression, serving as powerful tools for implementing machine learning models.
+
+By the conclusion of the Advanced Data Science class, students emerge with a robust skill set in data handling, analysis, and machine learning using Python. This not only enhances their proficiency in utilizing cutting-edge technologies but also positions them competitively in the evolving field of data science.
+
+In summary, the Advanced Data Science class at PSDS encapsulates a rigorous journey through the realm of data science, emphasizing practical applications, hands-on experiences, and the mastery of Python, TensorFlow, and Keras. The course is designed to empower participants with the skills needed to thrive in the ever-evolving landscape of data science upon completion.
